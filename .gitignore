@@ -1,0 +1,10 @@
+# Ignore folders that starts with SONG.
+# Those folders contain the raw recorded tracks.
+
+SONG*
+
+# Ignore etc/ folder.
+# This folder contains the folders which were in
+# Korg D888/ folder before.
+
+etc
