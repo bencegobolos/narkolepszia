@@ -1,0 +1,10 @@
+2017-11-25
+
+	[A pestis]
+	* Kiigazítottam az elején a dzsin-dzsin-dzsin részt
+	* Dzsin-dzsin után dupla pergõ (Unanswered-feeling)
+	* Dob hyperblast hangerõt finomhangoltam
+	* Gitárok sávjait nem vágom el 7000 Hz-nél
+	* Megdupláztam a  tön-tön-tön részt
+	* Kiszedtem a felesleges pestis.mid-et a 11. sávból
+	* Két tiszta gitárt szétdobtam bal-jobb oldalra
