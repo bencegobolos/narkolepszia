@@ -1,0 +1,8 @@
+2017-12-01
+
+	[kiserlet]
+	* Hangosabb basszusgitár
+	** EQ
+	** -4dB -> +1dB
+	* Presetek portolása (presets/ at d686cbf)
+
